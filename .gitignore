@@ -39,3 +39,10 @@ luac.out
 *.x86_64
 *.hex
 
+# Roblox
+roblox.toml
+/dist
+*.rbxmx
+*.rbxm
+*.rbxlx
+*.rbxl

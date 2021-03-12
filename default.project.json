@@ -1,0 +1,20 @@
+{
+  "name": "containerservice-knit",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Common": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ReplicatedStorage"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/ServerScriptService"
+      }
+    }
+  }
+}
